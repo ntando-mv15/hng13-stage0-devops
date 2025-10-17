@@ -1,6 +1,6 @@
 ## Author
 
-**Name**: Ntando Mvubu
+**Name**: Ntando Mvubu  
 **Slack Username**: entee
 
 
